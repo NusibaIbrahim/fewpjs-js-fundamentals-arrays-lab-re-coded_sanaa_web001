@@ -1,4 +1,5 @@
 // Write your solution here!
+const pets = ["Milo", "Otis", "Garfield"];
 const append = ["Milo", "Otis", "Garfield"];
 append.puch("Odie") ;
 append;

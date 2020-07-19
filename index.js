@@ -1,7 +1,7 @@
 // Write your solution here!
 const append = ["Milo", "Otis", "Garfield"];
 const prepend =  ["Milo", "Otis", "Garfield"];
-prepend.puch("Odie") ;
+prepend.push("Odie") ;
 
 const removeLast = ["Milo", "Otis", "Garfield"];
 prepend.unshift("Odie") ;
